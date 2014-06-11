@@ -12,6 +12,6 @@ package teste.maven.testemaven2;
  */
 public class Teste2 {
     public static void main(String[] args) {
-        System.out.printf("Alo Java Maven 2");
+        System.out.printf("Alo Java Maven 2. Alteracao numero 2");
     }
 }
